@@ -4,7 +4,8 @@
 
 <p><em>Web applications development at <a href="https://www.monlau.com/"> Monlau Study Center in Barcelona </a><img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="40">
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-himelmaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himelmaj/)](https://www.linkedin.com/in/himelmaj/)
+[![Linkedin: himelmaj](https://img.shields.io/badge/-himelmaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himelmaj/)](https://www.linkedin.com/in/himelmaj/)
+[![Twitch: himelmaj](https://img.shields.io/badge/-himelmaj-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/roy2hz/)](https://www.linkedin.com/in/himelmaj/)
 
 
 
@@ -37,20 +38,6 @@ if __name__ == '__main__':
 [![Himel Majumder GitHub Stats](https://github-readme-stats.vercel.app/api?username=himelmaj&show_icons=true&count_private=true)](https://github.com/himelmaj)
     
   
-
-
-
+[![Snake aimation](https://github.com/himelmaj/himelmaj2/blob/output/github-contribution-grid-snake.svg)
 <!--
-**himelmaj/himelmaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
