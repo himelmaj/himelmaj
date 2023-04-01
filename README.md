@@ -17,6 +17,7 @@ class himelmaj:
         self.username = 'himelmaj'
         self.name = 'Himel Majumder'
         self.linkedin = 'https://linkedin.com/in/himelmaj'
+        seld.twitch = 'https://twitch.tv/roy2hz'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'C++'],
             'backend': ['JAVA', 'Pyhton', 'C++'],
