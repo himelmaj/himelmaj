@@ -4,10 +4,10 @@
 
 <p><em>Web applications development at <a href="https://www.monlau.com/"> Monlau Study Center in Barcelona </a><img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="40">
 
-[![Linkedin: himelmaj](https://img.shields.io/badge/-himelmaj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/himelmaj/)](https://www.linkedin.com/in/himelmaj/)
-[![Twitch: roy2hz](https://img.shields.io/badge/-himelmaj-purple?style=flat-square&logo=Twitch&logoColor=white&link=https://www.twitch.tv/roy2hz/)](https://www.linkedin.com/in/himelmaj/)
-
-
+<div> 
+    <a href="https://www.linkedin.com/in/himelmaj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/roy2hz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+</div>
 
 
 ```python
