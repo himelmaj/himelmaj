@@ -19,7 +19,7 @@ class himelmaj:
         self.linkedin = 'https://linkedin.com/in/himelmaj'
         seld.twitch = 'https://twitch.tv/roy2hz'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'C++'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['JAVA', 'Pyhton', 'C++'],
             'database': ['SQL'],
             'tools': ['GIT', 'GitHub'],
