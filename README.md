@@ -17,11 +17,12 @@ class himelmaj:
         self.username = 'himelmaj'
         self.name = 'Himel Majumder'
         self.linkedin = 'https://linkedin.com/in/himelmaj'
-        seld.twitch = 'https://twitch.tv/roy2hz'
+        self.codewars = 'https://www.codewars.com/users/himelmaj/'
+        self.hackthebox = 'https://app.hackthebox.com/users/1250092'
         self.code = {
             'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
             'backend': ['JAVA', 'Pyhton', 'C++'],
-            'database': ['SQL'],
+            'database': ['SQL', 'PostgresSQL'],
             'tools': ['GIT', 'GitHub'],
         }
         
