@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30">
 </h2>
 
-<p><em>Web applications development at <a href="https://www.monlau.com/"> Monlau Study Center in Barcelona </a><img src="https://media.giphy.com/media/fhAwk4DnqNgw8/giphy.gif" width="40">
+<p><em>Web applications development at <a href="https://www.monlau.com/"> Monlau Study Center in Barcelona </a>
 
 <div> 
     <a href="https://www.linkedin.com/in/himelmaj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
