@@ -32,8 +32,5 @@ if __name__ == '__main__':
     me = himelmaj()
 ```
     
-### Github Stats
-
-[![Himel Majumder GitHub Stats](https://github-readme-stats.vercel.app/api?username=himelmaj&show_icons=true&count_private=true)](https://github.com/himelmaj)
     
   
