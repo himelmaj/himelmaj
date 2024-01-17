@@ -19,10 +19,10 @@ class himelmaj:
         self.codewars = 'https://www.codewars.com/users/himelmaj/'
         self.hackthebox = 'https://app.hackthebox.com/users/1250092'
         self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'Boostrap'],
-            'backend': ['JAVA', 'Pyhton', 'C++'],
-            'database': ['SQL', 'PostgresSQL'],
-            'tools': ['GIT', 'GitHub'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Next', 'Astro', 'Tailwindcss', 'Bootstrap'],
+            'backend': ['Django', 'FastApi', 'Laravel', 'JAVA', 'Pyhton', 'C++'],
+            'database': ['MySQL', 'PostgresSQL', 'MongoDB', 'MariaDB'],
+            'tools': ['GIT', 'GitHub', 'Docker'],
         }
         
     def __str__(self):
@@ -31,6 +31,24 @@ class himelmaj:
 if __name__ == '__main__':
     me = himelmaj()
 ```
+
+
+Generates a snake game from a github user contributions graph
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/himelmaj/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/himelmaj/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/himelmaj/output/github-contribution-grid-snake.svg"
+  />
+</picture>
     
     
   
