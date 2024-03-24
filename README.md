@@ -1,33 +1,36 @@
-<h2> Hi, I'm Himel Majumder!
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="30">
-</h2>
+<img align='right' src='./assets/github-gif.gif' width='200'>
 
-<p><em>Web applications development at <a href="https://www.monlau.com/"> Monlau Study Center in Barcelona </a>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/himelmaj/" target="_blank" style="color: #fdd456;">Himel Majumder</a> <img
+src="./assets/hi.gif" height="32" /></h1>
 
-<div> 
-    <a href="https://www.linkedin.com/in/himelmaj" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<div style="margin: 10px;">
+<p>Inter <strong>Web Developer</strong> at <strong> 🏥 <a href="https://www.santpau.cat/es/web/public" target="_blank" style="color: #fdd456;">Hospital Sant Pau</a></strong> and student at <strong> 🏫 <a href="https://www.monlau.com/formacio-professional/" target="_blank" style="color: #fdd456;">Monlau</a></strong> based in 🏙️ Barcelona, Spain.  I'm actively involved in several side projects, learning and improving every day ✨. A <strong>Python</strong> 🐍 and <strong>JS</strong> 🐢 enthusiast! Check out my stack below ⬇️! You can contact me using my 📫 <strong><a href="mailto:himelmajumder1@gmail.com" target="_blank" style="color: #0a66c2;">himelmajumder1@gmail.com</a></strong> or through my LinkedIn profile 🔗 <strong><a href="https://www.linkedin.com/in/himelmaj/" target="_blank" style="color: #0a66c2;">in/himelmaj</a></strong></p>
+
+</div>
+
+<div>
+<h2>🚀 My stack and some tools i use</h2>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,nodejs,expressjs,mongodb,mysql,graphql,fastapi,python,prisma,laravel,php,git,github,docker,postman,vercel,aws,googlecloud,vscode,pycharm,phpstorm,webstorm,windows,linux)
 </div>
 
 
-```python
-class himelmaj:
-    
-    def __init__(self):
-        self.username = 'himelmaj'
-        self.name = 'Himel Majumder'
-        self.linkedin = 'https://linkedin.com/in/himelmaj'
-        self.codewars = 'https://www.codewars.com/users/himelmaj/'
-        self.hackthebox = 'https://app.hackthebox.com/users/1250092'
-        self.code = {
-            'frontend': ['HTML', 'CSS', 'JavaScript', 'React', 'Next', 'Astro', 'Tailwindcss', 'Bootstrap'],
-            'backend': ['Django', 'FastApi', 'Laravel', 'JAVA', 'Pyhton', 'C++'],
-            'database': ['MySQL', 'PostgresSQL', 'MongoDB', 'MariaDB'],
-            'tools': ['GIT', 'GitHub', 'Docker'],
-        }
-        
-    def __str__(self):
-        return self.name
-
-if __name__ == '__main__':
-    me = himelmaj()
-```
+<div>
+<h2>
+🐍 My Contributions 🐍
+</h2>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/himelmaj/himelmaj/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+</div>
