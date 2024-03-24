@@ -9,7 +9,7 @@ src="./assets/hi.gif" height="32" /></h1>
 </div>
 
 <div>
-<h2>🚀 My stack and some tools i use</h2>
+<h2>🚀 Tech Stack 🚀</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,npm,nodejs,expressjs,mongodb,mysql,graphql,fastapi,python,prisma,laravel,php,git,github,docker,postman,vercel,aws,googlecloud,vscode,pycharm,phpstorm,webstorm,windows,linux)
 </div>
@@ -17,7 +17,7 @@ src="./assets/hi.gif" height="32" /></h1>
 
 <div>
 <h2>
-🐍 My Contributions 🐍
+🐍 Contributions 🐍
 </h2>
 <picture>
   <source
