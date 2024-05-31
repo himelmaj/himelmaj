@@ -1,4 +1,4 @@
-<img align='right' src='./assets/github-gif.gif' width='200'>
+<img align='right' src='./assets/intro.gif' width='200'>
 
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/himelmaj/" target="_blank" style="color: #fdd456;">Himel Majumder</a> <img
 src="./assets/hi.gif" height="32" /></h1>
