@@ -4,7 +4,17 @@
 src="./assets/hi.gif" height="32" /></h1>
 
 <div style="margin: 10px;">
-<p>Inter <strong>Web Developer</strong> at <strong> 🏥 <a href="https://www.santpau.cat/es/web/public" target="_blank" style="color: #fdd456;">Hospital Sant Pau</a></strong> and student at <strong> 🏫 <a href="https://www.monlau.com/formacio-professional/" target="_blank" style="color: #fdd456;">Monlau</a></strong> based in 🏙️ Barcelona, Spain.  I'm actively involved in several side projects, learning and improving every day ✨. A <strong>Python</strong> 🐍 and <strong>JS</strong> 🐦 enthusiast! Check out my stack below ⬇️! You can contact me using my 📫 <strong><a href="mailto:himelmajumder1@gmail.com" target="_blank" style="color: #0a66c2;">himelmajumder1@gmail.com</a></strong> or through my LinkedIn profile 🔗 <strong><a href="https://www.linkedin.com/in/himelmaj/" target="_blank" style="color: #0a66c2;">in/himelmaj</a></strong></p>
+<p>
+  Full Stack <strong>Web Developer</strong> based in 🏙️ Barcelona, Spain. 
+  I'm actively involved in several side projects, learning and improving every day ✨. 
+  A <strong>Python</strong> 🐍, <strong>JavaScript</strong> 🐦, and <strong>TypeScript</strong> enthusiast! 
+  I love working with frameworks like <strong>Next.js</strong> and <strong>FastAPI</strong>. 
+  Check out my stack below ⬇️! You can contact me using my 📫 <strong>
+  <a href="mailto:himelmajumder1@gmail.com" target="_blank" style="color: #0a66c2;">himelmajumder1@gmail.com</a></strong> 
+  or through my LinkedIn profile 🔗 <strong>
+  <a href="https://www.linkedin.com/in/himelmaj/" target="_blank" style="color: #0a66c2;">in/himelmaj</a></strong>
+</p>
+
 
 </div>
 
